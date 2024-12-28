@@ -1,16 +1,17 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on:<br>A course management project using Java and understanding the basics of Object-Oriented Programming.<br><br>👯 I’m looking to collaborate on:<br>Simple programming projects to apply OOP concepts or AI-related tasks.<br><br>🤝 I’m looking for help with:<br>Analyzing loop outputs and writing theoretical answers for exams.<br><br>🌱 I’m currently learning:<br>Java, Data Structures, and the fundamentals of Artificial Intelligence.<br><br>💬 Ask me about:<br>AI specialization and how to develop AI models.<br><br>⚡ Fun fact:<br>I’m passionate about AI, but my first programming project took me two weeks to complete, while my classmates finished it in just hours!
 
-<!--
-**turki013/turki013** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/🔭 I’m currently working on: A course management project using Java and understanding the basics of Object-Oriented Programming.  👯 I’m looking to collaborate on: Simple programming projects to apply OOP concepts or AI-related tasks.  🤝 I’m looking for help with: Analyzing loop outputs and writing theoretical answers for exams.  🌱 I’m currently learning: Java, Data Structures, and the fundamentals of Artificial Intelligence.  💬 Ask me about: AI specialization and how to develop AI models.  ⚡ Fun fact: I’m passionate about AI, but my first programming project took me two weeks to complete, while my classmates finished it in just hours!) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=turki013&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=turki013&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=turki013&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=turki013&icon=0&color=0)](https://visitcount.itsvg.in)
+
