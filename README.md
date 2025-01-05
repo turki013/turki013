@@ -4,7 +4,8 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fx.rg13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/turki-al-mutairi-1486b3244?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
-![Static Badge](https://img.shields.io/badge/Turki_013-you_like-blue?style=social&logo=Github&logoColor=Black&labelColor=White%20&cacheSeconds=https%3A%2F%2Fgithub.com%2Fturki013&link=https%3A%2F%2Fgithub.com%2Fturki013)
+![Static Badge](https://img.shields.io/badge/Turki_013-blue?style=social&logo=Github&logoColor=Black&labelColor=White%20&cacheSeconds=https%3A%2F%2Fgithub.com%2Fturki013&link=https%3A%2F%2Fgithub.com%2Fturki013)
+
 
 
 # 💻 Tech Stack:
