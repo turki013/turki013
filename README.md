@@ -18,11 +18,17 @@
 
 <p align="left">👋 Hi! I'm Turki, a student in Data Science & AI at SEU, passionate about Artificial Intelligence, Machine Learning, Data Analysis, and Big Data. I have a strong enthusiasm for technology and innovation, always seeking to expand my knowledge and skills through hands-on projects, research, and active participation in tech communities.<br><br>I enjoy solving complex problems, building efficient systems, and leveraging data-driven insights to create impactful solutions. My curiosity drives me to explore emerging technologies and collaborate on innovative initiatives.<br><br>🚀 Skills<br><br>💻 Programming Languages: Python,  Java, <br><br>🔍 Data Science,  Data Analysis<br><br>📊 Data Visualization & Business Intelligence (Power BI , Excel)</p>
 
+
+###
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNxZ2c1dGNqbmZocHI1NTZwZzBycDF5OXY1ZGFyd2Vjb2Vxc3MwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" width="300"/>
+
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
