@@ -12,17 +12,17 @@
 
 ###
 
-<h3 align="left">👨🏻‍💻 About Me</h3>
+<h2 align="left">👨🏻‍💻 About Me</h2>
 
 ###
 
-<p align="left">👋 Hi! I'm Turki, a student in Data Science & AI at SEU, passionate about Artificial Intelligence, Machine Learning, Data Analysis, and Big Data. I have a strong enthusiasm for technology and innovation, always seeking to expand my knowledge and skills through hands-on projects, research, and active participation in tech communities.<br><br>I enjoy solving complex problems, building efficient systems, and leveraging data-driven insights to create impactful solutions. My curiosity drives me to explore emerging technologies and collaborate on innovative initiatives.</p>
+<p align="left">Hi! I'm Turki, a student in Data Science & AI at SEU, passionate about Artificial Intelligence, Machine Learning, Data Analysis, and Big Data. I have a strong enthusiasm for technology and innovation, always seeking to expand my knowledge and skills through hands-on projects, research, and active participation in tech communities.<br><br>I enjoy solving complex problems, building efficient systems, and leveraging data-driven insights to create impactful solutions. My curiosity drives me to explore emerging technologies and collaborate on innovative initiatives.</p>
 
 
 ###
 
 
-<h3 align="left">🚀 Skills</h3>
+<h2 align="left">🚀 Skills</h2>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -60,7 +60,7 @@
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h2 align="left">📊 My Stats :</h2>
 
 ###
 
