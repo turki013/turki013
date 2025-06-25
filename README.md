@@ -18,6 +18,9 @@
 
 <img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNxZ2c1dGNqbmZocHI1NTZwZzBycDF5OXY1ZGFyd2Vjb2Vxc3MwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" />
 
+
+
+
 🎓 **Student** in Data Science & AI at SEU  
 🔬 **Passionate** about Artificial Intelligence & Machine Learning  
 📊 **Focused** on Data Analysis and Big Data  
