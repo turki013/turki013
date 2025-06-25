@@ -16,9 +16,7 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" width="350" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNxZ2c1dGNqbmZocHI1NTZwZzBycDF5OXY1ZGFyd2Vjb2Vxc3MwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif"/>
-
-
+<img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNxZ2c1dGNqbmZocHI1NTZwZzBycDF5OXY1ZGFyd2Vjb2Vxc3MwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" />
 
 🎓 **Student** in Data Science & AI at SEU  
 🔬 **Passionate** about Artificial Intelligence & Machine Learning  
@@ -128,15 +126,19 @@ I’m on a journey to transform raw data into meaningful insights! My curiosity 
       </td>
       <td align="center" width="25%">
         <h3>📈 Visualization</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="48" />
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" /><br>
+        <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_003.png" height="48" alt="matplotlib" />
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="48" alt="seaborn" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" alt="powerbi" /><br>
+        <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Seaborn-3e4a89?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
       </td>
       <td align="center" width="25%">
-        <h3>🛠️ Tools</h3>
-        <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda" /><br>
+        <h3>🛠️ Tools & Platforms</h3>
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="48" /><br>
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       </td>
     </tr>
