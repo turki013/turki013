@@ -1,4 +1,4 @@
-# 🌟 Turki Al-Mutairi | Data Science & AI Enthusiast
+# 👨🏻‍💻 Turki Al-Mutairi | Data Science & AI Enthusiast
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=55&descSize=20" width="100%" />
