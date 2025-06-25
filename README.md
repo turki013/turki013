@@ -1,157 +1,207 @@
+# 🌟 Turki Al-Mutairi | Data Science & AI Enthusiast
+
 <div align="center">
-  <img height="157" src="https://myindianthings.com/cdn/shop/products/12_95b1e306-8e87-4cab-870e-c9639b1c7a5d_800x.jpg?v=1675318925" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Science%20%7C%20AI%20%7C%20Machine%20Learning&descAlignY=55&descSize=20" width="100%" />
 </div>
-<h1 align="center">hey there 👋</h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=turki013.turki013&" />
-<h2 align="left">👨🏻‍💻 About Me</h2>
-<p align="left">Hi! I'm Turki, a student in Data Science & AI at SEU, passionate about Artificial Intelligence, Machine Learning, Data Analysis, and Big Data. I have a strong enthusiasm for technology and innovation, always seeking to expand my knowledge and skills through hands-on projects, research, and active participation in tech communities.<br><br>I enjoy solving complex problems, building efficient systems, and leveraging data-driven insights to create impactful solutions. My curiosity drives me to explore emerging technologies and collaborate on innovative initiatives.</p>
+
+<div align="center">
+  <img height="180" src="https://myindianthings.com/cdn/shop/products/12_95b1e306-8e87-4cab-870e-c9639b1c7a5d_800x.jpg?v=1675318925" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);" />
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Hi+there!+I'm+Turki+%F0%9F%91%8B;Data+Science+%26+AI+Student+%F0%9F%8E%93;Machine+Learning+Enthusiast+%F0%9F%A4%96;Building+the+Future+with+Data+%F0%9F%9A%80" alt="Typing SVG" />
+  <br>
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=turki013.turki013&left_color=667eea&right_color=764ba2&left_text=Profile%20Views" />
+</div>
+
+-----
+
+## 🙋‍♂️ About Me
+
+<img align="right" width="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNxZ2c1dGNqbmZocHI1NTZwZzBycDF5OXY1ZGFyd2Vjb2Vxc3MwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" />
+
+🎓 **Student** in Data Science & AI at SEU  
+🔬 **Passionate** about Artificial Intelligence & Machine Learning  
+📊 **Focused** on Data Analysis and Big Data  
+💡 **Driven** by technology and innovation
+
+I’m on a journey to transform raw data into meaningful insights! My curiosity fuels my exploration of emerging technologies, and I love collaborating on innovative projects that push the boundaries of what’s possible with AI and data science.
+
+**What drives me:**
+
+- 🧠 Solving complex problems with data-driven solutions
+- 🔧 Building efficient and scalable systems
+- 📈 Leveraging analytics for impactful decision-making
+- 🌱 Continuous learning and skill development
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div><h2>🚀 Featured Projects</h2>
-<div align="center"><!-- Real-vs-AI-Generated Repository Card --><div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 16px; padding: 24px; margin: 16px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); max-width: 600px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: -50%; right: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, transparent 50%); pointer-events: none;"></div>
-  <div style="position: relative; z-index: 1;">
-    <div style="display: flex; align-items: center; margin-bottom: 16px;">
-      <div style="background: rgba(255, 255, 255, 0.2); color: white; width: 40px; height: 40px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-size: 20px; backdrop-filter: blur(10px);">
-        🤖
-      </div>
-      <h2 style="margin: 0; color: white; font-size: 24px; font-weight: 700;">
-        <a href="https://github.com/turki013/Real-vs-AI-Generated" style="text-decoration: none; color: white;">Real-vs-AI-Generated</a>
-      </h2>
-    </div>
-    <p style="color: rgba(255, 255, 255, 0.9); font-size: 14px; margin-bottom: 16px; line-height: 1.5;">
-      Machine learning project to detect AI-generated content vs real content using advanced classification algorithms
-    </p>
-    <div style="display: flex; align-items: center;">
-      <div style="background: #f1c40f; width: 12px; height: 12px; border-radius: 50%; margin-right: 8px;"></div>
-      <span style="color: white; font-weight: 500; font-size: 14px;">Python</span>
-    </div>
-  </div>
-</div><div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&reversal=true" width="100%" />
-</div><!-- Electric-car-sales Repository Card --><div style="background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%); border-radius: 16px; padding: 24px; margin: 16px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); max-width: 600px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: -50%; right: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, transparent 50%); pointer-events: none;"></div>
-  <div style="position: relative; z-index: 1;">
-    <div style="display: flex; align-items: center; margin-bottom: 16px;">
-      <div style="background: rgba(255, 255, 255, 0.2); color: white; width: 40px; height: 40px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-size: 20px; backdrop-filter: blur(10px);">
-        🚗
-      </div>
-      <h2 style="margin: 0; color: white; font-size: 24px; font-weight: 700;">
-        <a href="https://github.com/turki013/Electric-car-sales" style="text-decoration: none; color: white;">Electric-car-sales</a>
-      </h2>
-    </div>
-    <p style="color: rgba(255, 255, 255, 0.9); font-size: 14px; margin-bottom: 16px; line-height: 1.5;">
-      Data analysis and visualization project exploring electric vehicle sales trends, market growth, and consumer adoption patterns
-    </p>
-    <div style="display: flex; align-items: center;">
-      <div style="background: #f1c40f; width: 12px; height: 12px; border-radius: 50%; margin-right: 8px;"></div>
-      <span style="color: white; font-weight: 500; font-size: 14px;">Python</span>
-    </div>
-  </div>
-</div><div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%">
-</div><!-- Portfolio-web Repository Card --><div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 50%, #fecfef 100%); border-radius: 16px; padding: 24px; margin: 16px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); max-width: 600px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: -50%; right: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(255, 255, 255, 0.2) 0%, transparent 50%); pointer-events: none;"></div>
-  <div style="position: relative; z-index: 1;">
-    <div style="display: flex; align-items: center; margin-bottom: 16px;">
-      <div style="background: rgba(255, 255, 255, 0.3); color: #333; width: 40px; height: 40px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-size: 20px; backdrop-filter: blur(10px);">
-        🌐
-      </div>
-      <h2 style="margin: 0; color: #333; font-size: 24px; font-weight: 700;">
-        <a href="https://github.com/turki013/Portfolio-web" style="text-decoration: none; color: #333;">Portfolio-web</a>
-      </h2>
-    </div>
-    <p style="color: #555; font-size: 14px; margin-bottom: 16px; line-height: 1.5;">
-      Personal portfolio website showcasing projects, skills, and professional experience with modern web technologies
-    </p>
-    <div style="display: flex; align-items: center;">
-      <div style="background: #e34c26; width: 12px; height: 12px; border-radius: 50%; margin-right: 8px;"></div>
-      <span style="color: #333; font-weight: 500; font-size: 14px;">HTML/CSS/JS</span>
-    </div>
-  </div>
-</div><div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
-</div><!-- Google-stock-by-year Repository Card --><div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 16px; padding: 24px; margin: 16px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1); max-width: 600px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: -50%; right: -50%; width: 200%; height: 200%; background: radial-gradient(circle, rgba(255, 255, 255, 0.1) 0%, transparent 50%); pointer-events: none;"></div>
-  <div style="position: relative; z-index: 1;">
-    <div style="display: flex; align-items: center; margin-bottom: 16px;">
-      <div style="background: rgba(255, 255, 255, 0.2); color: white; width: 40px; height: 40px; border-radius: 8px; display: flex; align-items: center; justify-content: center; margin-right: 16px; font-size: 20px; backdrop-filter: blur(10px);">
-        📊
-      </div>
-      <h2 style="margin: 0; color: white; font-size: 24px; font-weight: 700;">
-        <a href="https://github.com/turki013/Google-stock-by-year" style="text-decoration: none; color: white;">Google-stock-by-year</a>
-      </h2>
-    </div>
-    <p style="color: rgba(255, 255, 255, 0.9); font-size: 14px; margin-bottom: 16px; line-height: 1.5;">
-      Financial data analysis project tracking Google stock performance over years with statistical insights and predictive modeling
-    </p>
-    <div style="display: flex; align-items: center;">
-      <div style="background: #f1c40f; width: 12px; height: 12px; border-radius: 50%; margin-right: 8px;"></div>
-      <span style="color: white; font-weight: 500; font-size: 14px;">Python</span>
-    </div>
-  </div>
-</div></div>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div><h2 align="left">🚀 Skills</h2>
-<p align="left">
-  💻 <strong>Programming Languages:</strong> Python, Java <br>
-  🔍 <strong>Data Science & Data Analysis</strong> <br>
-  📊 <strong>Data Visualization & Business Intelligence:</strong> Power BI, Excel
-</p>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnNxZ2c1dGNqbmZocHI1NTZwZzBycDF5OXY1ZGFyd2Vjb2Vxc3MwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IcZhFmufozDCij3p22/giphy.gif" width="300"/>
-<h2 align="left">🛠 Language and tools</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" height="40" alt="maya logo" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo"  />
 </div>
+
+## 🚀 Featured Projects
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div><h2 align="left">📊 My Stats :</h2>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=turki013&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <table>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <a href="https://github.com/turki013/Real-vs-AI-Generated">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=turki013&repo=Real-vs-AI-Generated&theme=tokyonight&hide_border=true&border_radius=15" />
+          </a>
+        </div>
+        <h3>🤖 Real vs AI Content Analysis</h3>
+        <p>Comprehensive data analysis project using pandas and advanced statistical methods to analyze patterns in AI-generated vs real content datasets with feature engineering and visualization.</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+          <img src="https://img.shields.io/badge/Data%20Analysis-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <a href="https://github.com/turki013/Electric-car-sales">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=turki013&repo=Electric-car-sales&theme=radical&hide_border=true&border_radius=15" />
+          </a>
+        </div>
+        <h3>🚗 EV Market Analysis</h3>
+        <p>Comprehensive data analysis exploring electric vehicle sales trends, market growth patterns, and consumer adoption insights.</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Data%20Analysis-FF6B6B?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <a href="https://github.com/turki013/Portfolio-web">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=turki013&repo=Portfolio-web&theme=dracula&hide_border=true&border_radius=15" />
+          </a>
+        </div>
+        <h3>🌐 Personal Portfolio</h3>
+        <p>Modern, responsive portfolio website showcasing projects, skills, and professional journey with interactive elements.</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        </div>
+      </td>
+      <td width="50%">
+        <div align="center">
+          <a href="https://github.com/turki013/Google-stock-by-year">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=turki013&repo=Google-stock-by-year&theme=vue&hide_border=true&border_radius=15" />
+          </a>
+        </div>
+        <h3>📊 Financial Analytics</h3>
+        <p>In-depth financial data analysis of Google stock performance with statistical insights and predictive modeling capabilities.</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Financial%20Analysis-00D084?style=for-the-badge&logo=investopedia&logoColor=white" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=turki013&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=turki013&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=divider" width="100%" />
 </div>
+
+## 💻 Tech Stack & Skills
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=🐍%20Snake%20Game&fontSize=30&fontColor=white&animation=fadeIn" width="100%" />
-</div><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/turki013/turki013/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/turki013/turki013/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/turki013/turki013/output/github-snake.svg" />
-</picture>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h3>🔤 Languages</h3>
+        <img src="https://skillicons.dev/icons?i=python,java" /><br>
+        <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-Intermediate-ED8B00?style=flat-square&logo=java&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <h3>📊 Data Science</h3>
+        <img src="https://skillicons.dev/icons?i=py" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" /><br>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <h3>📈 Visualization</h3>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="48" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="48" /><br>
+        <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" />
+      </td>
+      <td align="center" width="25%">
+        <h3>🛠️ Tools</h3>
+        <img src="https://skillicons.dev/icons?i=vscode,git,github,anaconda" /><br>
+        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div><h2 align="center">🌐 Connect with me</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=turki013&bg_color=0d1117&color=667eea&line=667eea&point=764ba2&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=turki013&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&count_private=true" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=turki013&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0d1117&title_color=667eea&text_color=ffffff&langs_count=8" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=turki013&theme=tokyonight&hide_border=true&border_radius=15&background=0d1117&stroke=667eea&ring=667eea&fire=764ba2&currStreakLabel=667eea&sideNums=ffffff&currStreakNum=ffffff&dates=a9a9a9&sideLabels=a9a9a9" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header&text=🐍%20Contribution%20Snake&fontSize=30&fontColor=white&animation=fadeIn&fontAlignY=40" width="100%" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/turki013/turki013/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/turki013/turki013/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/turki013/turki013/output/github-snake.svg" />
+  </picture>
+</div>
+
+## 🌐 Let’s Connect!
+
 <div align="center">
   <a href="https://www.linkedin.com/in/turki-al-mutairi-1486b3244/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" height="40" />
   </a>
   <a href="https://www.instagram.com/fx.rg13/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat-square" height="40" />
   </a>
   <a href="https://t.me/DataScience18" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&style=flat-square" height="40" />
   </a>
 </div>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=white&animation=fadeIn" width="100%" />
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it&author=Peter%20Drucker" />
+</div>
+
+-----
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=70&desc=Feel%20free%20to%20explore%20my%20repositories%20and%20connect!&descAlignY=90&descSize=14" width="100%" />
+</div>
+
+<div align="center">
+  <sub>🌟 Made with ❤️ by Turki Al-Mutairi</sub>
 </div>
