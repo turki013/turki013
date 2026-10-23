@@ -100,8 +100,47 @@ I’m on a journey to transform raw data into meaningful insights! My curiosity 
         </div>
       </td>
     </tr>
+    <tr>
+      <td width="50%">
+        <div align="center">
+          <a href="https://github.com/turki013/House_Price_Predict">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=turki013&repo=House_Price_Predict&theme=tokyonight&hide_border=true&border_radius=15" />
+          </a>
+        </div>
+        <h3>🏠 House Price Prediction</h3>
+        <p>Machine learning project that predicts house prices from property features, covering data exploration, preprocessing, model training, and evaluation.</p>
+        <div align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+        </div>
+      </td>
+      <td width="50%"></td>
+    </tr>
   </table>
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=divider" width="100%" />
+</div>
+
+## 🤝 Open Source Contributions
+
+<div align="center">
+  <a href="https://github.com/sidhulyalkar/neurOS-v1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidhulyalkar&repo=neurOS-v1&theme=tokyonight&hide_border=true&border_radius=15" />
+  </a>
+</div>
+
+### 🧠 [neurOS-v1](https://github.com/sidhulyalkar/neurOS-v1) — Contributor
+
+Merged pull requests I contributed to the project:
+
+| PR | Title | Status |
+|----|-------|--------|
+| [#198](https://github.com/sidhulyalkar/neurOS-v1/pull/198) | `test(examples)`: external NSQ decoder failure-conformance tests | ✅ Merged |
+| [#196](https://github.com/sidhulyalkar/neurOS-v1/pull/196) | `feat(examples)`: add pure scikit-learn NSQ adapter example | ✅ Merged |
+
+🔗 [See all my pull requests in neurOS-v1](https://github.com/sidhulyalkar/neurOS-v1/pulls?q=is%3Apr+author%3Aturki013)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=divider" width="100%" />
